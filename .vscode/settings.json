@@ -1,0 +1,8 @@
+{
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "markdown.extension.print.imgToBase64": true,
+    "markdown.extension.print.onFileSave": true,
+    "markdown.extension.toc.githubCompatibility": true,
+    "markdown.extension.toc.downcaseLink": true,
+    "markdown.extension.toc.slugifyMode": true
+}
